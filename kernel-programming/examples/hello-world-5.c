@@ -6,7 +6,7 @@ static int ary_argc = 0;
 static short myshort = 0;
 static int myint = 0;
 static long mylong = 0;
-static char *mystring = "string";
+static char *mystring = "string new";
 static int myarray[2] = {0,0};
 
 
